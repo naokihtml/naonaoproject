@@ -6,7 +6,7 @@
 //  Copyright © 2020 みや. All rights reserved.
 //
 
-import UIKit！！
+import UIKit
 
 class ViewController: UIViewController {
 
@@ -15,8 +15,9 @@ class ViewController: UIViewController {
         
         
         print("あいうえお！！")
-        print("かきくけこ！！")
-        print("さしすせそ！！")
+        print("かきくけこ！")
+        print("さしすせそ！")
+      
         // Do any additional setup after loading the view.
     }
 
